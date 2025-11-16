@@ -1,0 +1,11 @@
+FieldContent to AnalyzeFrom:Netflix Support <billing@netfllix.com.co>Subject:URGENT: Your account has been SUSPENDED - Update Payment ImmediatelyDate:Friday, Nov 15, 2025 (4:42 PM PST)To:[Your Email Address]Body (Text):
+Dear customer, 
+
+We regret to inform you that we are temporarily unable to validate your payment details for the continuous of your service. Your monthly payment has failed to process. 
+Consequently, your subscription services has been suspended pending verification of your details. 
+To avoid interuption of service, please click on the link below and follow the instruction to update your billing information now. Failure to verify payment within 24 hours will result in the permanent closing of your netflix account.
+[Button Text: UPDATE PAYMENT HERE]
+Thank you for being a loyal customer.
+The Netflix Billing Team.
+T&C
+Link URL (Hidden):https://verify-billing-update.id/netflix-login-secureEmail Footer (Spoofed):This email was sent by Netflix Services, Inc. 9701 Wilshire Blvd. Beverly Hills, CA 90212
